@@ -4,7 +4,7 @@
     "@protected": true,
     "type": "@type",
     "schema": "https://schema.org/",
-    "TaxCredential": {
+    "BeninCredential": {
       "@id": "https://Durga0417.github.io/Benin/Benin.json#BeninCredential"
     },
         "firstName": "schema:Text",

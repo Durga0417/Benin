@@ -7,7 +7,7 @@
     "TaxCredential": {
       "@id": "https://Durga0417.github.io/Benin/Benin.json#BeninCredential"
     },
-    "firstName": "schema:Text",
+        "firstName": "schema:Text",
 		"lastName": "schema:Text",
 		"motherName": "schema:Text",
 		"dateOfBirth": "schema:birthDate",

@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "TaxCredential": {
+      "@id": "https://Durga0417.github.io/Benin/Benin.json#BeninCredential"
+    },
+    "firstName": "schema:Text",
+		"lastName": "schema:Text",
+		"motherName": "schema:Text",
+		"dateOfBirth": "schema:birthDate",
+		"gender": "schema:Text",
+		"nationality": "schema:Text",
+		"birthPlace": "schema:Text",
+		"phoneNumber": "schema:Text",
+		"npi": "schema:Text",
+		"email": "schema:Text",
+		"profession": "schema:Text",
+		"face": "schema:Text"
+
+  }
+}
